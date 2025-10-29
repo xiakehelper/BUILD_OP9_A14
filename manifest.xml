@@ -4,7 +4,7 @@
   <remote name="aosp"   fetch="https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/" />
   <remote name="statix" fetch="https://bgithub.xyz/StatiXOS/" revision="tm" />
   <remote name="gitlab" fetch="https://gitlab.com/" />
-  <remote name="github" fetch="https://bgithub.xyz/" />
+  <remote name="github" fetch="https://github.com/" />
   
   <default revision="master-kernel-build-2021" remote="aosp" sync-j="4" />
   <superproject name="kernel/superproject" remote="aosp" revision="common-android11-5.4-lts" />
