@@ -2,7 +2,7 @@
 <manifest>
   <!-- https://android.googlesource.com/ -->
   <remote name="aosp"   fetch="https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/" />
-  <remote name="statix" fetch="https://bgithub.xyz/StatiXOS/" revision="tm" />
+  <remote name="statix" fetch="https://github.com/StatiXOS/" revision="tm" />
   <remote name="gitlab" fetch="https://gitlab.com/" />
   <remote name="github" fetch="https://github.com/" />
   
