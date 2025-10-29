@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <!-- https://android.googlesource.com/ -->
   <remote name="aosp"   fetch="https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/" />
   <remote name="statix" fetch="https://bgithub.xyz/StatiXOS/" revision="tm" />
   <remote name="gitlab" fetch="https://gitlab.com/" />
